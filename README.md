@@ -1,4 +1,4 @@
-# flutter_cashy
+# flutter_payment
 
 A new Flutter project.
 
